@@ -1,0 +1,28 @@
+.blueLine {
+    color: blue;
+}
+
+.greenLine {
+    color: green;
+}
+
+.boldLine {
+    font-weight: bold;
+}
+
+.smallFont {
+    font-size: 12px;
+}
+
+.borderbox {
+    border-width: 2px;
+    border-color: blacck;
+    border-style: dotted;
+    padding-left: 20px;
+    padding-bottom: 10px;
+}
+
+.frog {
+    width: 15%;
+    float: left;
+}
